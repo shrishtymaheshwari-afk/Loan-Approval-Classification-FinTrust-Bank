@@ -26,7 +26,7 @@ To analyze customer financial data and build a reliable classification model tha
 | Loan Amount (₹) | Requested loan amount |
 | Loan Term (Months) | Duration of loan |
 | Interest Rate (%) | Applicable interest rate |
-| **Approval Status** | 🎯 Target variable |
+| **Approval Status** | Target variable |
 
 ## Project Workflow
 1. **Exploratory Data Analysis (EDA)** — distribution plots, boxplots, correlation heatmap
@@ -35,7 +35,7 @@ To analyze customer financial data and build a reliable classification model tha
 4. **Model Evaluation** — Accuracy, Confusion Matrix, ROC-AUC Curve, Feature Importance
 5. **Live Prediction Testing** — tested model on sample applicant data
 
-## 🛠️ Tech Stack
+## Tech Stack
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn`
 
 ## Model Performance
@@ -45,7 +45,7 @@ To analyze customer financial data and build a reliable classification model tha
 | **Random Forest** | **99%** |
 
 ## Key Insight
-📈 **Credit Score** is the most influential factor in loan approval decisions, followed by Existing Debts and Interest Rate.
+**Credit Score** is the most influential factor in loan approval decisions, followed by Existing Debts and Interest Rate.
 
 ## 🔗 Project Notebook
 ▶️ **[Open in Google Colab](https://colab.research.google.com/drive/1cpHSn67OQpnEAHQ459tTmIbrbRTAlJJf?usp=sharing)**
